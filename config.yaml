@@ -1,0 +1,18 @@
+---
+title: "The B0ardside"
+contentDir: "content"
+layoutDir: "layouts"
+publishDir: "public"
+buildDrafts: false
+relativeURLs: true
+taxonomies:
+   category: "categories"
+   tag: "tags"
+baseURL: "https://b0ardside.com/"
+params:
+    SidebarRecentLimit: 5
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+...

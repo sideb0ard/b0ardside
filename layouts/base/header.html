@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+<head>
+  <meta charset="utf-8">
+
+  <base href="{{ .Site.BaseURL }}">
+  <title> TheB0ardside.com </title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link href="/static/css/b0ardstrap.min.css" rel="stylesheet" />
+  <link href="/static/css/b0ardstyle.css" rel="stylesheet" />
+
+  {{ range .AlternativeOutputFormats -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+
+</head>
+
+<body lang="en">
+  {{ template "base/menu.html" . }}
+  <div class="container">
+    <div id="page">
