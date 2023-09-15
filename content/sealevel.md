@@ -85,10 +85,12 @@ Slug: "sealevel"
  
 
 <div class="interview-question">
+<p>
 Interview by <a href="http://brentwillson.com/">Brent Willson</a>.<br>
 Jeana illustration by <a href="https://www.gorney.studio/">Douglas Gorney</a>.<br>
 Other illustrations by Jeana Loraine.<br>
-<a href="https://sealevelsf.com/">SEALEVEL</a> is located at 4331 IRVING ST.
+<a href="https://sealevelsf.com/">SEALEVEL</a> is located at 4331 IRVING ST.<br>
+Originally printed B0ardside6.</p>
 </div>
 
 </div>

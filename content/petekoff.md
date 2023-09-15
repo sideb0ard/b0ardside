@@ -24,3 +24,5 @@ Slug: "devils-pitt"
 
 <p>The Devil’s Pit bowl was torn down by the city due to a BMX’r getting severely injured there in the early 90’s. The hillside is still accessible but completely overgrown with poison oak. There’s very little documentation or any information online because social media did not yet exist.  I’m very glad to have these photos I took to document the rad times we had at this secret skate spot.</p>
 
+<p>Words and pics by man like <a href="https://www.instagram.com/avenue_films/?hl=en">Pete Koff</a>!<br>
+Originally printed in B0ardside5.</p>
