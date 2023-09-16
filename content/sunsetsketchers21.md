@@ -10,7 +10,7 @@ Slug: "sunset-sketchers-21"
 
 Woop! Got an awesome new backyard show coming up next weekend - Saturday and Sunday March 27/28 - the <a href="https://www.instagram.com/sunsetsketchers/">Sunset Sketchers</a> Annual Group Show, 2021.
 
-<img src="/sketchers.2021.png" width="800">
+<img src="/sketchers.2021.png" class="responsive">
 
 We have a ton of great art, and I'm particularly excited for some model installations by <a href="https://www.instagram.com/p/CHPAW1EhYw3/">Thomas Beutel</a>!
 

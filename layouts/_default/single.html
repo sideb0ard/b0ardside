@@ -4,33 +4,33 @@
 <section id="main">
   <h1 id="title">{{ .Title }}</h1>
   <div>
-        <article id="content">
-           {{ .Content }}
-        </article>
+    <article id="content">
+      {{ .Content }}
+    </article>
   </div>
 </section>
 
 <aside id="meta">
-    <div>
+  <div>
     <section>
       <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
     </section>
-    <ul id="tags">
+    <ul class="tags">
       {{ range .Params.tags }}
-        <li> <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>
+      <li> <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>
       {{ end }}
     </ul>
-    </div>
-    <div>
-        {{ if .NextPage }}
-          <a class="previous" href="{{.NextPage.Permalink}}">Previous:: {{.NextPage.Title}}</a>
-        {{ end }}
-    </div>
-    <div>
-        {{ if .PrevPage }}
-          <a class="next" href="{{.PrevPage.Permalink}}">Next:: {{.PrevPage.Title}}</a>
-        {{ end }}
-    </div>
+  </div>
+  <div>
+    {{ if .NextPage }}
+    <a class="previous" href="{{.NextPage.Permalink}}">Newer:: {{.NextPage.Title}}</a>
+    {{ end }}
+  </div>
+  <div>
+    {{ if .PrevPage }}
+    <a class="next" href="{{.PrevPage.Permalink}}">Older:: {{.PrevPage.Title}}</a>
+    {{ end }}
+  </div>
 </aside>
 
 {{ template "base/footer.html" . }}

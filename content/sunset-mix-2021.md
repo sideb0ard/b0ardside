@@ -11,7 +11,7 @@ Slug: "sunset-mix-2021"
 Recordings from Kei Terauchi to accompany her piece 'What Makes The World Go Around - Outer Sunset Mix 2021' in The B0ardside zine issue #2.
 
 <p>
-<img src="cassidy.png" width="800"><br>
+<img src="cassidy.png" class="responsive"><br>
 <video width="400"  controls>
 <source src="cassidy.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -19,7 +19,7 @@ Your browser does not support the video tag.
 </p>
 
 <p>
-<img src="noah.png" width="800"><br>
+<img src="noah.png" class="responsive"><br>
 <video width="400"  controls>
 <source src="noah.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -27,7 +27,7 @@ Your browser does not support the video tag.
 </p>
 
 <p>
-<img src="anna.png" width="800"><br>
+<img src="anna.png" class="responsive"><br>
 <video width="400"  controls>
 <source src="anna.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -35,7 +35,7 @@ Your browser does not support the video tag.
 </p>
 
 <p>
-<img src="sam.png" width="800"><br>
+<img src="sam.png" class="responsive"><br>
 <video width="400"  controls>
 <source src="sam.mp4" type="video/mp4">
 Your browser does not support the video tag.

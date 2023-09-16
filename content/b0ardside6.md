@@ -12,7 +12,7 @@ Slug: "b0ardside-6"
 Next backyard show coming up on September 23rd!<br>
 </p>
 
-<img src="bs6FLYER.png" width="800">
+<img src="bs6FLYER.png" class="responsive">
 
 <p>Last backyard show of the summer coming up, and it's a doozy!</p>
 

@@ -10,4 +10,4 @@ Slug: "lunchbox-jams"
 
 Me and Michael will be DJing at Laughing Monk brewing for a wee end of Beer Week celebration. Afternoon jams!
 
-<img src="/img/lunchboxjams.png" width="800">
+<img src="/img/lunchboxjams.png" class="responsive">

@@ -10,7 +10,7 @@ Slug: "sealevel"
 
 <div class=interview">
 
-<img src="jeanna.png" width="800">
+<img src="jeanna.png" class="responsive">
 
 <div class="interview-question">
 <p>B0ardside recently popped into SEALEVEL and sat down for a chat with Jeana Loraine, the owner of a new art gallery and creative space nestled in the middle of the Irving business corridor that stretches between the Great Highway and Sunset Blvd.</p>
@@ -31,7 +31,7 @@ Slug: "sealevel"
 <p>This is something I’ve always wanted ever since I can remember. I always wanted to have my own space. I’ve worked for a music venue in Zurich, Switzerland for about twenty years now. And when I first came to that place, I felt like I had found my home, my port in nautical terms. When I was working there, I really enjoyed working in hospitality and bringing people together and organizing music shows and I just loved how it made people happy. I always thought someday I would have my own bar or restaurant or something, then when I found this space here, I realized that it doesn’t have to be a bar or a venue.  It can just be like a living room where people can come and hang out and get to know their neighbors, a place where people can come together and exchange ideas and resources. I love when people walk in and ask questions like “what is this?” I’m really enjoying just bringing people in the neighborhood together where new connections are made, and new ideas are born.</p>
 </div>
 
-<img src="sardine.png" width="800">
+<img src="sardine.png" class="responsive">
 
 <div class="interview-question">
 <p>That’s great. So you have a graphic design background and you do the posters for the venue in Switzerland? How did you get involved with that?  They are fantastic.</p>
@@ -53,7 +53,7 @@ Slug: "sealevel"
 <p>You now have an art show up on the walls, Summer in the Sunset. This is your first show at Sealevel. How has the experience been for you so far?</p>
 </div>
 
-<img src="summerinsunset.png" width="800">
+<img src="summerinsunset.png" class="responsive">
 
 <div class="interview-answer">
 <p>It’s been great! We have 19 local artists in this show. I was not expecting to have that much interest since it’s the first show we’re putting on. But I’m really excited about it and everybody in the show is just fantastic. The opening was a huge success.  I knew there would be people, but I was not expecting that many people. The few days after I would go out and people would come up to me and be like, Oh, I missed the show, but I heard it was amazing. So it kind of felt a little bit like the talk of the town.</p>

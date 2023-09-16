@@ -8,7 +8,7 @@ Categories:
 Slug: "b0ardside3"
 ---
 
-<img src="returnofthewild.png">
+<img src="returnofthewild.png" class="responsive">
 
 Hey lovelies!
 

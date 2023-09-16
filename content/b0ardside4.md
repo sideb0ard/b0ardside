@@ -14,4 +14,4 @@ Putting on another backyard art show, with several bands and a new issue of the 
 
 10th September 2022 - 43rd and Moraga, OB415.
 
-<img src="b0ardfest2022.jpg" width=600>
+<img src="b0ardfest2022.jpg" class="responsive">

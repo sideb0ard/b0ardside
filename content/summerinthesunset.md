@@ -15,4 +15,4 @@ I dropped off pieces yesterday and spoke with Jeana that runs it. We're going to
 
 Opening celebration will be next saturday, July 15th, from 1-5pm. If you're local, come by and check out the art! The show will be running until the end of September. If you can't make the opening, do drop past and checkout the gallery. I'll be manning the gallery desk on Sunday, July 16th, so i'll be there all weekend!
 
-<img src="summersunset.png" width="900">
+<img src="summersunset.png" class="responsive">

@@ -14,7 +14,7 @@ Slug: "anthony-r-grant-interview"
 <a href="https://www.argstudios.com/art-work">Anthony R. Grant</a> will be our feature artist for the backyard show on June 17th. This interview by <a href="https://keiterauchisideboard.bandcamp.com/">Kei Terauchi</a> is from issue #5 of the zine which will be available for purchase at the show.
 </div>
 
-<img src="anthonyimagez/three-jamaican-men.jpg">
+<img src="anthonyimagez/three-jamaican-men.jpg" class="responsive">
 
 <div class="interview-question">
 What makes you make the art that you make? Where does it start?
@@ -36,7 +36,7 @@ I’ve always been kind of crafty - looking at things that might not necessarily
 I found collage in my late teens, early 20s - that’s when I can remember the first time trying to communicate through it. I used to just find it fun to, you know, take one person’s face and mash it with another person’s face - haha, that’s hilarious. But then over time I started doing other things, like going through entire magazines and finding anything that had the color blue in it to create abstract objects, finding the different values of blue to create some sort of dimension or structure. Once I started doing that, I was like, Oh man, this is really interesting. I kept it in my back pocket and never really led with collage. I just always experimented with it and used it as an illustrative medium for a short period of time, thinking that I was going to be an illustrator. If I had to create illustrations, I’d often use that method for editorial publications that I art directed, and do some sort of collage character. So it kind of always followed, and then over the last few years, I came back to it out of necessity. During the pandemic I couldn’t go to my art studio, and I was having this moment where I wasn’t really creating. At the time, I was painting a lot more, so I was just like, oh man, I can’t really paint here in the house, there’s not enough space. Well, what about that collage thing? I used to really love that and I don’t need a whole lot of space for that - I can do that in the garage. And it was that moment that reignited my passion for the medium, and that brings us all the way through to today.
 </div>
 
-<img src="anthonyimagez/short-circuit.jpg">
+<img src="anthonyimagez/short-circuit.jpg" class="responsive">
 
 <div class="interview-question">
 What are your inspirations? Do you already have a vision and you look for things that might work? Do you surprise yourself?
@@ -66,7 +66,7 @@ What other aspects of your work do you want people to know? Is there anything in
 I’d say first and foremost, look deeper, look and scrutinize everything. Don’t only take what is spoonfed. All of these things have been tied to very specific memories for me. When I was a kid, I remember my mom playing music at home. And I knew that there were just two “Black” radio stations in the city but I also realized we weren’t only listening to those radio stations. So that simple act told me one thing; just because something is labeled as for you, it doesn’t mean that you can’t find joy in other things. You can find joy in something else, it’s wholly possible. I would always look at categories or groupings with great scrutiny. I think about how we grew up in the era where there were a few media outlets, and they were all mainly talking at you and forcing things down your throat. There were very few opportunities, outside of going to your library or being one of the very first people to have some sort of internet connection to really seek out alternatives to anything. It was really hard to go against the grain in that sense. But the way I would do it, I started with music - I would sit by the radio and turn the dial really slowly, because my uncle taught me about Jamaican pirate radio stations. So I was like, oh, wait a minute, if I just find the right frequency, I could find something completely different that no one even knows about. Expanding on that idea over time I found college radio stations that were playing house music or hip hop till the wee hours of morning. All of this just to say keep looking—this is one of the bigger ideas I keep trying to push and that also applies to my art making. Just because you don’t understand something, it doesn’t mean that you can’t inherently appreciate it. That’s the start of simply being able to understand who’s next to you, what makes them tick, why they do what they do, why they believe what they believe.
 </div>
 
-<img src="anthonyimagez/no-snam-land.jpg">
+<img src="anthonyimagez/no-snam-land.jpg" class="responsive">
 
 <div class="interview-question">
 I can almost hear your interaction at the photo studio with your mom and with your uncle and turning the radio dial. Are there family and community aspects in your work?
@@ -96,7 +96,7 @@ Before we end, can we talk about some of the physical tools and how you combine 
 That has grown over the years. It used to purely be me cutting pieces of paper and putting it together and maybe using a photocopier to duplicate and enlarge, but I’ve grown to use digital tools to composite images together, print those out, and then do something physically to that then rescan, to try something else digitally, but also as a way to continue to build the language and have source material that I can readily go back to. So that’s where that push and pull comes with analog and digital. I think they go great together. I’m not a purist when it comes to collage. I don’t even know if that’s a thing, but I know that there are some people that are very dead set on glue, paper, scissors, and that’s it, which I can appreciate - limitations are good they help us to generate and create amazing things. I still see what I have immediately around me, I mean, I might have a computer and printer, but I still see that as as a limitation for me, because there’s so many other things I could do that I’m either not doing because I don’t have them or I just can’t do because they’re too big or not accessible to me. So it’s all relative, I guess. When I was talking about screen printing, since I don’t quite have that setup, and I like to work fast, so I use other methods that involve a lot of rubbing, which add another physical aspect to the work. Sometimes you’ll see burnished images onto a piece of cardboard, if you look closely, you’ll see the actual scratch marks, because I don’t necessarily have the clean pull of a squeezed screenprint, it’s more of like forcing this image to leave one substrate and go on to another.
 </div>
 
-<img src="anthonyimagez/busy-signal.jpg">
+<img src="anthonyimagez/busy-signal.jpg" class="responsive">
 
 <div class="interview-question">
 All images by Anthony. Find his work at <a href="https://www.argstudios.com/art-work">https://www.argstudios.com/art-work</a>

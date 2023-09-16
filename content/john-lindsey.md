@@ -14,7 +14,7 @@ Slug: "john-lindsey-great-highway"
 John Lindsey runs the Great Highway Gallery, out here on Lawton and 43rd. This interview comes from issue 5 of our B0ardside zine, available next week on June 17th! Interview and illustration by Douglas Gorney.
 </div>
 
-<img src="johnlindsey-web.jpg">
+<img src="johnlindsey-web.jpg" class="responsive">
 
 
 <div class="interview-question">
@@ -162,7 +162,7 @@ We’ve talked a bit about John, the gallerist; let’s talk about John, the art
 </div>
 
 <div class="interview-answer">
-<img src="john-lindsey-art.jpg">
+<img src="john-lindsey-art.jpg" class="responsive">
 <br>Art by John Lindsey.<br>
 </div>
 
