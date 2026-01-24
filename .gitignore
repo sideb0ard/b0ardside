@@ -11,6 +11,7 @@ static
 firebase.json
 package-lock.json
 public/
+.DS_Store
 
 # Firebase cache
 .firebase/

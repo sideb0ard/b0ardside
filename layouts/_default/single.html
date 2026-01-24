@@ -2,6 +2,7 @@
 {{ $baseurl := .Site.BaseURL }}
 
 <section id="main">
+  <div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
   <h1 id="title">{{ .Title }}</h1>
   <div>
     <article id="content">
@@ -12,9 +13,6 @@
 
 <aside id="meta">
   <div>
-    <section>
-      <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
-    </section>
     <ul class="tags">
       {{ range .Params.tags }}
       <li> <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> </li>
